@@ -30,5 +30,6 @@ def reverse_transfer
     self.sender.balance += self.amount
     self.receiver.balance -= self.amount
 end
+end
 
 end

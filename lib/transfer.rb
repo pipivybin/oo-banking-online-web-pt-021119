@@ -21,10 +21,11 @@ def execute_transaction
     self.sender.balance -= self.amount
     self.receiver.balance += self.amount
   else "reject"
+  end
 end
 
 def reverse_transfer
-  
+
 
 end
 

@@ -23,4 +23,9 @@ def execute_transaction
   else "reject"
 end
 
+def reverse_transfer
+  
+
+end
+
 end

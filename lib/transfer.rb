@@ -1,6 +1,6 @@
 class Transfer
 
-def initialize(from, to, amount)
+def initialize(sender, receiver, amount)
 
 end
 
